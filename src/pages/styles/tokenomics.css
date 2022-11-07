@@ -1,0 +1,32 @@
+.tokenmics {
+  width: 100%;
+  background: radial-gradient(#235f4f, #181f10);
+  color: transparent;
+}
+
+.pieChart {
+  color: white;
+  font-size: 20px;
+}
+
+.underPieChart {
+  width: 80%;
+  margin: 0 auto;
+  background-image: radial-gradient(#448d62, #0e5034);
+  border-radius: 25px;
+  padding: 20px;
+}
+
+.underPie h1 {
+  font-family: PlusJakartaSans;
+  font-size: 30px;
+  background-image: linear-gradient(to left, #e4dcf9, #ffc0ad);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  text-align: center;
+}
+
+.underPieText {
+  color: white;
+}

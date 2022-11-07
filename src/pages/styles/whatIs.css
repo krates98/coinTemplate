@@ -1,0 +1,44 @@
+.whatIs2 {
+  width: 100%;
+}
+
+.titleWhat {
+  width: 100%;
+  text-align: center;
+  padding-top: 5%;
+}
+
+.titleWhat h1 {
+  font-family: PlusJakartaSans;
+  font-size: 50px;
+  background-image: linear-gradient(to left, #e4dcf9, #ffc0ad);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+.whatIsContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.whatIsImage {
+  width: 50%;
+}
+
+.whatIsText {
+  width: 50%;
+  color: white;
+}
+
+.whatIsText h1 {
+  font-family: PlusJakartaSansMedium;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.whatIsText p {
+  font-family: PlusJakartaSansExtraLight;
+}

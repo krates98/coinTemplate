@@ -1,0 +1,39 @@
+@font-face {
+  font-family: PlusJakartaSans;
+  src: url(/public/fonts/JakartaSans/static/PlusJakartaSans-Bold.ttf);
+}
+
+@font-face {
+  font-family: PlusJakartaSansExtraLight;
+  src: url(/public/fonts/JakartaSans/static/PlusJakartaSans-ExtraLight.ttf);
+}
+
+@font-face {
+  font-family: PlusJakartaSansLight;
+  src: url(/public/fonts/JakartaSans/static/PlusJakartaSans-Light.ttf);
+}
+
+@font-face {
+  font-family: PlusJakartaSansMedium;
+  src: url(/public/fonts/JakartaSans/static/PlusJakartaSans-Medium.ttf);
+}
+
+@font-face {
+  font-family: PlusJakartaSansRegular;
+  src: url(/public/fonts/JakartaSans/static/PlusJakartaSans-Regular.ttf);
+}
+
+body {
+  background-color: #1f1013;
+}
+
+.headerClass {
+  height: 100vh;
+  margin: 0;
+  font-weight: 100;
+  background: radial-gradient(#a23982, #1f1013);
+  -webkit-animation: fadeIn 1 1s ease-out;
+  -moz-animation: fadeIn 1 1s ease-out;
+  -o-animation: fadeIn 1 1s ease-out;
+  animation: fadeIn 1 1s ease-out;
+}
