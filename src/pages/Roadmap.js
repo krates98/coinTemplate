@@ -27,7 +27,7 @@ const Roadmap = () => {
             data-aos="fade-left"
             data-aos-duration="1500"
             className="titleWhat">
-            <h1>Roadmap</h1>
+            <h1>ROADMAP</h1>
           </div>
 
           <div class="row">

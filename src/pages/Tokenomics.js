@@ -31,7 +31,7 @@ const Tokenomics = () => {
             data-aos="fade-left"
             data-aos-duration="1500"
             className="titleWhat">
-            <h1>Tokenomics</h1>
+            <h1>TOKENOMICS</h1>
           </div>
           <div className="whatIsContainer">
             <div
@@ -102,6 +102,7 @@ const Tokenomics = () => {
               odio.
             </div>
           </div>
+          <div className="marginBottomSet"></div>
         </div>
       </div>
     </>

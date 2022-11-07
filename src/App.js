@@ -5,6 +5,7 @@ import FirstSlide from "./pages/FirstSlide";
 import Whatis from "./pages/WhatIs";
 import Roadmap from "./pages/Roadmap";
 import Tokenomics from "./pages/Tokenomics";
+import OurTeam from "./pages/OurTeam";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Whatis />
       <Roadmap />
       <Tokenomics />
+      <OurTeam />
     </>
   );
 }

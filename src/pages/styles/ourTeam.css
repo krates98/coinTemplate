@@ -1,0 +1,15 @@
+.ourTeam {
+  width: 100%;
+  height: 100vh;
+  background: radial-gradient(#000d3a, #12101f);
+  color: transparent;
+}
+
+.ourTeam h1 {
+  font-family: PlusJakartaSans;
+  font-size: 50px;
+  background-image: linear-gradient(to left, #e4dcf9, #ffc0ad);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}

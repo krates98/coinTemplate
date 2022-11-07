@@ -16,7 +16,7 @@ const Whatis = () => {
           data-aos="fade-left"
           data-aos-duration="1500"
           className="titleWhat">
-          <h1>What is BullsEye?</h1>
+          <h1>ABOUT BULLSEYE</h1>
         </div>
         <div className="whatIsContainer">
           <div
