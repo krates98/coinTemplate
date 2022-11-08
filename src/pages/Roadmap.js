@@ -1,18 +1,6 @@
 import React from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
-import { LazyLoadImage } from "react-lazy-load-image-component";
-import "react-lazy-load-image-component/src/effects/blur.css";
-
-// Import Swiper React components
-import { Swiper, SwiperSlide } from "swiper/react";
-import { Pagination, Autoplay, Navigation } from "swiper";
-
-// Import Swiper styles
-import "swiper/css";
-import "swiper/css/pagination";
-import "swiper/css/navigation";
-import "swiper/css/autoplay";
 
 import "./styles/roadmap.css";
 
@@ -37,7 +25,7 @@ const Roadmap = () => {
                   class="timeline"
                   data-aos="fade-right"
                   data-aos-duration="1500">
-                  <a href="" class="timeline-content">
+                  <a href="http://www.google.com" class="timeline-content">
                     <div class="timeline-icon">
                       <i class="fa fa-instagram"></i>
                     </div>
@@ -54,7 +42,7 @@ const Roadmap = () => {
                   class="timeline"
                   data-aos="fade-left"
                   data-aos-duration="1500">
-                  <a href="" class="timeline-content">
+                  <a href="http://www.google.com" class="timeline-content">
                     <div class="timeline-icon">
                       <i class="fa fa-twitter"></i>
                     </div>
@@ -71,7 +59,7 @@ const Roadmap = () => {
                   class="timeline"
                   data-aos="fade-right"
                   data-aos-duration="1500">
-                  <a href="" class="timeline-content">
+                  <a href="http://www.google.com" class="timeline-content">
                     <div class="timeline-icon">
                       <i class="fa fa-facebook"></i>
                     </div>
@@ -88,7 +76,7 @@ const Roadmap = () => {
                   class="timeline"
                   data-aos="fade-left"
                   data-aos-duration="1500">
-                  <a href="" class="timeline-content">
+                  <a href="http://www.google.com" class="timeline-content">
                     <div class="timeline-icon">
                       <i class="fa fa-linkedin"></i>
                     </div>

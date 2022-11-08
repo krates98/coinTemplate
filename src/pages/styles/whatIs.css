@@ -1,5 +1,11 @@
+.about {
+  background: radial-gradient(#2b1d39, #12101f);
+  color: transparent;
+}
+
 .whatIs2 {
   width: 100%;
+  height: 100vh;
 }
 
 .titleWhat {

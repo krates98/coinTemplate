@@ -1,6 +1,6 @@
 .tokenmics {
   width: 100%;
-  background: radial-gradient(#235f4f, #181f10);
+  background: radial-gradient(#2b1d39, #12101f);
   color: transparent;
 }
 
@@ -12,7 +12,7 @@
 .underPieChart {
   width: 80%;
   margin: 0 auto;
-  background-image: radial-gradient(#448d62, #0e5034);
+  background-image: radial-gradient(#2b1d39, rgb(49, 43, 84));
   border-radius: 25px;
   padding: 20px;
 }
